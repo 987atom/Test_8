@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4bojzOZOB8ikZyvcOJ9Ej1b5YmQNDxjnSh/HoKpdXZdrnIH41P3j7nS9exqHekPrGQ3ys0tBWe3oYMSpr0CuZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matvey\\source\\repos\\8_Test\\8_Test\\8_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matvey\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

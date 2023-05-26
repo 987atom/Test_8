@@ -1,0 +1,12 @@
+C:\Users\Matvey\source\repos\8_Test\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\Matvey\source\repos\8_Test\Library\bin\Debug\net6.0\Library.dll
+C:\Users\Matvey\source\repos\8_Test\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.dll
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\Matvey\source\repos\8_Test\Library\obj\Debug\net6.0\ref\Library.dll
